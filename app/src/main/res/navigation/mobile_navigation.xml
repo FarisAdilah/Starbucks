@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.idstar.starbucks.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_card"
+        android:name="com.idstar.starbucks.ui.card.CardFragment"
+        android:label="@string/title_card"
+        tools:layout="@layout/fragment_card" />
+
+    <fragment
+        android:id="@+id/navigation_order"
+        android:name="com.idstar.starbucks.ui.order.OrderFragment"
+        android:label="@string/title_order"
+        tools:layout="@layout/fragment_order" />
+
+    <fragment
+        android:id="@+id/navigation_reward"
+        android:name="com.idstar.starbucks.ui.reward.RewardFragment"
+        android:label="@string/title_reward"
+        tools:layout="@layout/fragment_reward" />
+
+    <fragment
+        android:id="@+id/navigation_store"
+        android:name="com.idstar.starbucks.ui.store.StoreFragment"
+        android:label="@string/title_store"
+        tools:layout="@layout/fragment_store" />
+
+</navigation>

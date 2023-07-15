@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Starbucks</string>
+    <string name="title_home">Home</string>
+    <string name="title_card">Card</string>
+    <string name="title_order">Order</string>
+    <string name="title_reward">Reward</string>
+    <string name="title_store">Store</string>
+    <string name="good_morning_faris">Good Morning, Faris</string>
+    <string name="green_level">Green Level</string>
+    <string name="profile">Profile</string>
+    <string name="inbox">Inbox</string>
+    <string name="code">E-Code</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="profile_activity">Profile Activity</string>
+    <string name="inbox_activity">Inbox Activity</string>
+    <string name="zero">0</string>
+    <string name="star">Star</string>
+    <string name="star_balance">Star balance</string>
+</resources>
