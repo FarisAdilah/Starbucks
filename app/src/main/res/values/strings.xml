@@ -11,6 +11,7 @@
     <string name="inbox">Inbox</string>
     <string name="code">E-Code</string>
     <string name="title_activity_profile">ProfileActivity</string>
+    <string name="rewards_detail">Rewards details</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
@@ -21,7 +22,19 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="profile_activity">Profile Activity</string>
     <string name="inbox_activity">Inbox Activity</string>
-    <string name="zero">0</string>
+    <string name="star_count">10</string>
     <string name="star">Star</string>
     <string name="star_balance">Star balance</string>
+    <string name="details">Details</string>
+    <string name="redeem">Redeem</string>
+    <string name="mobile_order">Mobile Order</string>
+    <string name="content_mobile_order">Get 10 Bonus Stars for any purchase made via Mobile Order with min. of IDR 50K purchasement </string>
+    <string name="refer_friend">Refer A Friend</string>
+    <string name="content_refer_friend">Share your Referral code with friends and get IDR 25K off Reward!</string>
+    <string name="tv_title_app_features">Did you know the Starbucks App features?</string>
+    <string name="content_app_features">Get the best of Starbucks Rewards right at you fingertips. The Starbucks</string>
+    <string name="rewards_benefit">The Starbucks Rewards Benefits</string>
+    <string name="content_rewards_benefit">As a Starbucks Rewards member, you will earn Stars for all purchased</string>
+    <string name="delivery">Starbucks Delivers</string>
+    <string name="content_delivery">Your favorite handcrafted beverages and food can now be enjoyed</string>
 </resources>
